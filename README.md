@@ -1,1 +1,4 @@
 # powerbi_dashboards
+The Lockdown Analysis Dashboard, developed in Power BI, explores student lifestyle patterns during the lockdown period. It provides insights into sleep duration, study habits, social media usage, stress busters, and behavioral changes. With interactive charts and filters, the dashboard highlights how students adapted to remote learning and managed their well‑being during challenging times.
+
+The Adidas Sales Dashboard, also built in Power BI, delivers a comprehensive analysis of Adidas’s performance between 2020–2021. It tracks key KPIs such as total sales, profit, average price per unit, and units sold, while breaking down results by region, city, product category, gender segmentation, sales methods, and retailer performance. This dashboard enables clear visibility into quarterly trends and profitability drivers, making it a valuable tool for business decision‑making.
